@@ -1,0 +1,8 @@
+Name     Roll     Subject
+
+Nusrat Arora, 34567, MERN Stack
+Mr.Jahid, 9807, Data Science
+Jha rr, 7868, Paython
+Muhammad Alif, 8978, Data Structure
+Jahid Jim, 8886, ReactJS
+Easin Alif, 1273066, Asp.Net
