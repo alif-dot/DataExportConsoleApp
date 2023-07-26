@@ -1,6 +1,7 @@
 # TestConsoleApp
 
-=========================================================================================================================
+========================================================================
+
 Task List:
 
 1. Take a console application
@@ -12,8 +13,9 @@ Task List:
 4. Write the data in excel file, in a drive folder
    
 5. Read the files from the folder drive and show file list in console output
+   
 
-=========================================================================================================================
+========================================================================
 
 DataExportConsoleApp
 DataExportConsoleApp is a C# console application designed to extract data from an SQL database using ADO.NET and perform data export operations. The application provides a user-friendly interface in the console to interactively collect data from the user and save it to various file formats for further analysis and reporting.
